@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a Frontend Developer with love for Vue.js. Currently, **I'm open to contribute in open source project or work and employment opportunities**.
+I am a dedicated Frontend Developer with a strong knowledge of creating visually appealing and user-friendly digital interfaces. Proficient in HTML, CSS, JavaScript and experienced in Vue.js, I am experienced in turning design concepts into functional, responsive web applications or websites. My keen attention to detail and passion for creating seamless user experiences drive my commitment to optimizing site performance and cross-browser compatibility. I thrive in collaborative environments, adept at collaborating with cross-functional teams to ensure a cohesive development process. With a deep appreciation for user-centric design and accessibility principles, I am enthusiastic about contributing my skills to projects that push the boundaries of frontend development.
+
+**I'm open to contributing to open-source projects**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -16,7 +18,7 @@ Fact:
 
 - 👯 I’m looking to collaborate on open source with Vue.js
 - 📫 How to reach me: sonjoy88[at]gmail[dot]com
-- ⚡ Fun fact: Love to ride motor cycle, cook and eat
+- ⚡ Fun fact: Love to ride motorcycle, cook and eat
 
 Numbers:
 
