@@ -26,5 +26,6 @@ Numbers:
 ![Sonjoy's Stats](https://github-readme-stats.vercel.app/api?username=sonjoy-s&count_private=true&show_icons=true)
 -->
 ![Sonjoy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoy-s&layout=compact)
-
+<!-- hide temporary as Github having API issue
 ![Sonjoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonjoy-s)
+-->
