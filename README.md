@@ -14,13 +14,13 @@ I am a dedicated Frontend Developer with a strong knowledge of creating visually
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 -->
 
-Fact:
+#### Fact
 
 - 👯 I’m looking to collaborate on open source with Vue.js
 - 📫 How to reach me: sonjoy88[at]gmail[dot]com
 - ⚡ Fun fact: Love to ride motorcycle, cook and eat
 
-Numbers:
+#### Numbers
 
 <!--
 ![Sonjoy's Stats](https://github-readme-stats.vercel.app/api?username=sonjoy-s&count_private=true&show_icons=true)
