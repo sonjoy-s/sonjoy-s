@@ -12,10 +12,6 @@ I am a dedicated Frontend Developer with a strong knowledge of creating visually
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 -->
 
-#### Fact
-
-⚡ Fun fact: Love to ride motorcycle, cook and eat
-
 #### Numbers
 
 <!--
@@ -24,3 +20,12 @@ I am a dedicated Frontend Developer with a strong knowledge of creating visually
 ![Sonjoy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoy-s&layout=compact)
 
 ![Sonjoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonjoy-s)
+
+
+#### Need more info?
+🔗 Here is my [portfolio](https://sonjoy.me)
+
+
+#### Fact
+
+⚡ Fun fact: Love to ride motorcycle, cook and eat
