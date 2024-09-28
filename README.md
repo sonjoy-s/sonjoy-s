@@ -4,6 +4,7 @@ I am a dedicated Frontend Developer with a strong knowledge of creating visually
 
 **I'm open to contributing to open source projects**.
 
+#### Stacks I like to work on
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
