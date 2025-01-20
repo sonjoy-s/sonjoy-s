@@ -13,7 +13,7 @@ I am a dedicated Frontend Developer with a strong knowledge of creating visually
 
 ![Sonjoy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoy-s&layout=compact)
 
-![Sonjoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonjoy-s)
+<!-- ![Sonjoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonjoy-s) -->
 
 
 
