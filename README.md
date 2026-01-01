@@ -8,17 +8,18 @@ I am a dedicated Frontend Developer with a strong knowledge of creating visually
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
-
+<!--
 ### Numbers
 
 ![Sonjoy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoy-s&layout=compact)
+-->
 
 <!-- ![Sonjoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonjoy-s) -->
 
 
 
 ### Need more info?
-🔗 Here is my [portfolio](https://sonjoy.me)
+🔗 Here is my portfolio [sonjoy.dev](https://sonjoy.dev)
 
 
 ### Let's connect
