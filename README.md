@@ -7,6 +7,7 @@ I am a dedicated Frontend Engineer with a strong knowledge of creating visually 
 ### I love to work on 
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/React-35495E?style=flat-square&logo=react&logoColor=087ea4)
 
 <!--
 ### Numbers
