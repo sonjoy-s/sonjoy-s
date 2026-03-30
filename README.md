@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi, I'm Sonjoy Samadder 👋
 
-I am a dedicated Frontend Engineer with a strong knowledge of creating visually appealing and user-friendly digital interfaces. Proficient in HTML, CSS, JavaScript and experienced in Vue.js, I am experienced in turning design concepts into functional, responsive web applications or websites. My keen attention to detail and passion for creating seamless user experiences drive my commitment to optimizing site performance and cross-browser compatibility. I thrive in collaborative environments, adept at collaborating with cross-functional teams to ensure a cohesive development process. With a deep appreciation for user-centric design and accessibility principles, I am enthusiastic about contributing my skills to projects that push the boundaries of frontend development.
+Frontend Engineer with 7+ years of experience building modern web applications for startups, global marketplaces, and freelance clients.
+
+I work mainly with Vue.js and React, creating scalable frontend systems, transforming designs into production-ready interfaces, and improving user experience through clean and efficient code.
+
+Currently contributing remotely at Sender — developing features, fixing problems, and helping products grow.
+
+💡 Philosophy: Keep learning. Keep improving. Keep shipping.
 
 **I'm open to contributing to open source projects.**
 
