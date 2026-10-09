@@ -63,6 +63,11 @@ Check out my work, experience, and more on my portfolio: [**sonjoy.dev**](https:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoy-s&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
+<p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonjoy-s&theme=vue)](https://git.io/streak-stats)
+</p>
+
 ---
 
 ## 🏍️ Beyond the code
