@@ -56,20 +56,6 @@ Check out my work, experience, and more on my portfolio: [**sonjoy.dev**](https:
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonjoy-s&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoy-s&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
-<p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sonjoy-s&theme=vue)](https://git.io/streak-stats)
-</p>
-
----
-
 ## 🏍️ Beyond the code
 
 When I'm not at my keyboard, you'll find me riding my motorcycle, cooking, and (most importantly) eating.
